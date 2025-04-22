@@ -1,7 +1,7 @@
 Name: Xingyu Lu
 Status: Distinguished
 ProjectTitle: Pencil nib
-Technologies: Swift UI UIKit Pencil Kit  open source binary tree algorithm
+Technologies: Swift UI UIKit Pencil Kit  AVFoundation
 
 AboutMeUrl:
 SourceUrl: 
