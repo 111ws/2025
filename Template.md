@@ -3,7 +3,7 @@ Status: Distinguished
 ProjectTitle: Pencil nib
 Technologies: Swift UI UIKit Pencil Kit  AVFoundation
 
-AboutMeUrl:
+AboutMeUrl:playgame223344@outlook.com 
 SourceUrl: 
 VideoUrl: https://youtu.be/oRIB38hXKTc
 
